@@ -1,7 +1,5 @@
 # JoaoVictorCamparotoLIma
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCamparotoLIma&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCamparotoLIma&show_icons&theme=dark)](https://github.com/JoaoVictorCamparotoLIma/github-readme-sta
 
 ##
 
